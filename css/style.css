@@ -1,0 +1,76 @@
+
+.logo{
+    font-size:24px;
+    font-weight:bold;
+    color:#3b82f6
+}
+header{
+    background-color: #101626;
+    color: white;
+    
+}
+section{
+    background-color:#0B1016;
+    color: white;
+}
+.box button{
+    background-color: #2F7AEF;
+    color: white;
+    box-shadow: #2F7AEF 2px 2px 5px;
+   
+}
+.box1{
+    font-size: 20px;
+    font-weight:bold ;
+}
+.card{
+    background-color: #131925;
+    color: white;
+    padding:20px;
+    border-radius: 10px;
+   opacity: .6;
+    transition: 1s;
+   
+
+    
+    
+    
+}
+
+.card:hover{
+    opacity: 1;
+}
+.box i{
+    
+   background: linear-gradient(#3b324a,#38324a);
+    color: #53B3DD;
+    
+    
+}
+footer{
+    background-color: #0B1016;
+}
+h4{
+    font-size:24px;
+    font-weight:bold;
+    color:#3b82f6
+}
+ i{
+    margin-left: 5px;
+}
+ul{
+    list-style: none;
+    
+}
+ul li a{
+    text-decoration: none;
+}
+
+
+
+
+    
+ 
+    
+
+
