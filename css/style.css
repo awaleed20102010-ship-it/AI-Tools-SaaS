@@ -28,17 +28,7 @@ section{
     color: white;
     padding:20px;
     border-radius: 10px;
-   opacity: .6;
-    transition: 1s;
-   
-
-    
-    
-    
-}
-
-.card:hover{
-    opacity: 1;
+ 
 }
 .box i{
     
